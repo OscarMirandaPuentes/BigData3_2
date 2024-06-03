@@ -1,0 +1,7 @@
+env/
+*pyc
+*__pycache__*
+parcial3/
+README.md
+/parcial3/.git
+/.git
