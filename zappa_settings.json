@@ -7,7 +7,7 @@
         "manage_roles": false,
         "project_name": "bigdata3",
         "runtime": "python3.10",
-        "s3_bucket": "sakila-warehouse-1",
+        "s3_bucket": "sakila-warehouse-2",
         "apigateway_enabled": false,
         "events": [
             {
@@ -20,16 +20,16 @@
         "memory_size": 300,
         "vpc_config": {
             "SubnetIds": [
-                "subnet-025a1f67e7b158688",
-                "subnet-0136b460b2dc15283",
-                "subnet-06d8f0be2fbd07bdb",
-                "subnet-0f0763ea8f1cca8b1",
-                "subnet-0cfaab5b1552cf915",
-                "subnet-04f5992ec8f632728"
+                "subnet-018260d5f91eb6a4d",
+                "subnet-0fadccfb0979917ae",
+                "subnet-0bf4379688ee51615",
+                "subnet-06584c2d2e08df382",
+                "subnet-0cb0fb1db3c815dcb",
+                "subnet-0ef3d6e48557c940a"
             ],
             "SecurityGroupIds": [
-                "sg-075cbeb329ceceabd",
-                "sg-06423fafcc9ab0448"
+                "sg-026a01621b6b85340",
+                "sg-05d72cbcbbf867b57"
             ]
         },
         "slim_handler": true
@@ -42,7 +42,7 @@
         "manage_roles": false,
         "project_name": "bigdata3",
         "runtime": "python3.10",
-        "s3_bucket": "sakila-warehouse-1",
+        "s3_bucket": "sakila-warehouse-2",
         "apigateway_enabled": false,
         "events": [
             {
@@ -55,16 +55,16 @@
         "memory_size": 300,
         "vpc_config": {
             "SubnetIds": [
-                "subnet-025a1f67e7b158688",
-                "subnet-0136b460b2dc15283",
-                "subnet-06d8f0be2fbd07bdb",
-                "subnet-0f0763ea8f1cca8b1",
-                "subnet-0cfaab5b1552cf915",
-                "subnet-04f5992ec8f632728"
+                "subnet-018260d5f91eb6a4d",
+                "subnet-0fadccfb0979917ae",
+                "subnet-0bf4379688ee51615",
+                "subnet-06584c2d2e08df382",
+                "subnet-0cb0fb1db3c815dcb",
+                "subnet-0ef3d6e48557c940a"
             ],
             "SecurityGroupIds": [
-                "sg-075cbeb329ceceabd",
-                "sg-06423fafcc9ab0448"
+                "sg-026a01621b6b85340",
+                "sg-05d72cbcbbf867b57"
             ]
         },
         "slim_handler": true
